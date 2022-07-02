@@ -7,7 +7,7 @@ Operation:
 3. Assign for driver (not complete)
 
 Version:
-Language: Java 8
-Database: Oracle 11g
-Database connection technique: Hibernate
-Framework: Spring boot 
+1. Language: Java 8
+2. Database: Oracle 11g
+3. Database connection technique: Hibernate
+4. Framework: Spring boot 
